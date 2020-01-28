@@ -3,6 +3,10 @@
     margin-bottom: 100px;
     margin-left: 20px;
     border: 25px;
+    padding: 20px;
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
     }
 body
 {
